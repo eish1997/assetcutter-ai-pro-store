@@ -1,9 +1,9 @@
 [
   {
     "id": "prompt_pack_starter",
-    "type": "prompt_templates",
-    "name": "Starter Prompt Pack",
-    "desc": "A starter pack of prompt templates for AssetCutter AI Pro.",
+    "type": "capability_presets",
+    "name": "Starter Capability Pack",
+    "desc": "A starter capability pack (CustomAppModule[]) for AssetCutter AI Pro. Install it to add abilities into the Capability page.",
     "version": "1.0.0",
     "url": "./prompt_pack_starter.json",
     "updatedAt": "2026-02-12",

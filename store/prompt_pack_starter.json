@@ -1,10 +1,13 @@
 [
   {
     "id": "edit_ecommerce_white_bg",
-    "name": "Edit: E-commerce white background",
-    "tags": ["edit", "ecommerce"],
-    "text": "Transform this image into a clean e-commerce product photo on a pure white background. Keep the product geometry accurate. Remove the entire background and shadows. Soft studio lighting. High resolution, sharp, artifact-free.",
-    "note": "Use for product hero images."
+    "label": "改图：电商白底主图（Starter）",
+    "category": "image_gen",
+    "engine": "gen_image",
+    "imageGear": "fast",
+    "enabled": true,
+    "order": 0,
+    "instruction": "Transform this image into a clean e-commerce product photo on a pure white background. Keep the product geometry accurate. Remove the entire background. Soft studio lighting. High resolution, sharp, artifact-free."
   }
 ]
 
