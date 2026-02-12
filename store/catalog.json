@@ -1,0 +1,13 @@
+[
+  {
+    "id": "prompt_pack_starter",
+    "type": "prompt_templates",
+    "name": "Starter Prompt Pack",
+    "desc": "A starter pack of prompt templates for AssetCutter AI Pro.",
+    "version": "1.0.0",
+    "url": "./prompt_pack_starter.json",
+    "updatedAt": "2026-02-12",
+    "tags": ["starter", "edit", "image"]
+  }
+]
+
